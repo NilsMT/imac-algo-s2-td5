@@ -6,3 +6,4 @@ project(TD5)
 
 add_executable(ex01 src/ex01.cpp)
 add_executable(ex02 src/ex02.cpp)
+add_executable(exbonus src/exbonus.cpp)
